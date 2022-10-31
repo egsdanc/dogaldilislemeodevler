@@ -1,6 +1,6 @@
 Dersteki örnekden farklı ilk olarak en çok tekrar eden kelimeleri çıkarttım ve tf_idf yaparken
 doğru sonuca ulaşmak için daha doğru kelimelerin kullanılmasını sağladım.
-for i in range(5):  
+  for i in range(5):  
   sorted_frequencies[i]=0
 yukarıdaki kod ile en çok terar eden ilk 5 kelimeyi çıkarttım  
 
